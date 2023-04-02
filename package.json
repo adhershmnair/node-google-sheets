@@ -1,0 +1,9 @@
+{
+  "name": "@adhershmnair/node-google-sheets",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Google Sheets v4 API using Node.js",
+  "dependencies": {
+    "googleapis": "^82.0.0"
+  }
+}
