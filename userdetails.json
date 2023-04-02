@@ -1,0 +1,7 @@
+{
+    "hostname": "...",
+    "spreadsheetId" : "...",
+    "redminUsername": "...",
+    "redminePassword": "...",
+    "limit": 100
+}
